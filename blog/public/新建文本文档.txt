@@ -1,0 +1,21 @@
+<div class='container-fluid' style=''>
+    <div class = 'row'>
+                <div class="col-md-3" style='margin-top:10px;background-color:#FF0077;border-radius:6px 6px 0px 0px;'>
+                    <div style='width:200px;height:40px;'>
+                        <span style='line-height:40px;color:white;' class='glyphicon glyphicon-tasks'>&nbsp;
+                        <a class="" href="javascript:;" style='font-size:18px;color:white;line-height:40px;' target="_blank"></span>主题市场</a>
+                    </div>
+                </div>
+
+                <div class='col-md-1' style='margin-top:10px;background-color:white;margin-left:5px;'>
+                    <div style='width:140px;height:40px;'>
+                        <a href="" style='font-size:18px;color:black;line-height:40px;'>省钱团购</a>
+                    </div>
+                </div>
+
+                <div class='col-md-1' style='margin-top:10px;background-color:white;margin-left:5px;'>
+                    <div style='width:140px;height:40px;'>
+                        <a href="" style='font-size:18px;color:black;line-height:40px;'>显示快抢</a>
+                    </div>
+                </div>
+        </div>
